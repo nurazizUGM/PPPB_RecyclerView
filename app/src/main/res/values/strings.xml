@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 10</string>
+    <string-array name="images">
+        <item>https://img.freepik.com/free–photo/cityscape–anime–inspired–urban–area_23–2151028703.jpg</item>
+        <item>https://img.freepik.com/free–photo/cityscape–anime–inspired–urban–area_23–2151028702.jpg</item>
+        <item>https://img.freepik.com/free–photo/anime–style–house–architecture_23–2151064885.jpg</item>
+        <item>https://img.freepik.com/free–photo/rendering–bee–anime–character_23–2150963468.jpg</item>
+        <item>https://img.freepik.com/free–photo/rendering–bee–anime–character_23–2150963498.jpg</item>
+    </string-array>
+</resources>
